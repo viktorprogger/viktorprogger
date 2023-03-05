@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, my name is Viktor! 
+- I'm the maintainer of the [yiisoft/yii-queue](https://github.com/yiisoft/yii-queue) and [yiisoft/yii-queue-amqp](https://github.com/yiisoft/yii-queue-amqp) packages of the Yii3 Framework.
+- I'm the maintainer of the [Botasis](https://github.com/botasis) Telegram bot creation app.
 
-<!--
-**viktorprogger/viktorprogger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Big fan of the Yii Framework, adopter of the xDebug, everywhere introducer of Docker.
 
-Here are some ideas to get you started:
+My blog: https://viktorprogger.name, its disscussions are available at https://t.me/viktorprogger_blog
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Looking for a fulltime job 💼
+Feel free to DM me with your job offers: https://t.me/viktorprogger.
+
+### Pretty numbers
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=viktorprogger&show_icons=true&count_private=true&theme=transparent)
