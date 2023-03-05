@@ -4,7 +4,7 @@
 
 Big fan of the Yii Framework, adopter of the xDebug, everywhere introducer of Docker.
 
-My blog: https://viktorprogger.name, its disscussions are available at https://t.me/viktorprogger_blog
+My blog: https://viktorprogger.name, its disscussions are available at https://t.me/viktorprogger_blog (feel free to use both english and russian languages there).
 
 ### 💼 Looking for a fulltime job 💼
 Feel free to DM me with your job offers: https://t.me/viktorprogger.
