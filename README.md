@@ -5,8 +5,5 @@
 
 My blog: https://viktorprogger.name, its disscussions are available at https://t.me/viktorprogger_blog (feel free to use both english and russian languages there).
 
-### 💼 Looking for a fulltime job 💼
-Feel free to DM me with your job offers: https://t.me/viktorprogger.
-
 ### Pretty numbers
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=viktorprogger&show_icons=true&count_private=true&theme=transparent)
