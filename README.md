@@ -5,5 +5,14 @@
 
 My blog: https://viktorprogger.name, its disscussions are available at https://t.me/viktorprogger_blog (feel free to use both english and russian languages there).
 
-### Pretty numbers
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=viktorprogger&show_icons=true&count_private=true&theme=transparent)
+<h3 align="center">GitHub Trophies</h3>
+
+<p align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=viktorprogger&column=5&theme=onedark" />
+</p>
+
+<h3 align="center">Pretty numbers</h3>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viktorprogger&show_icons=true&count_private=true&theme=transparent" />
+</p>
