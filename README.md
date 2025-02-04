@@ -3,7 +3,7 @@
 - I'm the maintainer of the [Botasis](https://github.com/botasis) Telegram bot creation app.
 - Big fan of the [Yii Framework](http://yiiframework.com/), [adopter of the xDebug](https://viktorprogger.name/posts/how-to-use-php-without-installing.html?utm_source=github), everywhere [introducer of Docker](https://viktorprogger.name/posts/xdebug-docker-config-example.html?utm_source=github).
 
-My blog: https://viktorprogger.name, its disscussions are available at https://t.me/viktorprogger_blog (feel free to use both english and russian languages there).
+My blog: https://viktorprogger.name, disscussions in russian are available in [Telegram channel](https://t.me/viktorprogger_channel_ru).
 
 <h3 align="center">GitHub Trophies</h3>
 
